@@ -727,7 +727,7 @@
             }
           },
           "title1": "Digits Planet",
-          "subtitle1": "Developed by C#",
+          "subtitle1": "<span style=\"font-style: normal;\">Developed by C#</span>",
           "caption1": "Aim to change the elementary school students' viewpoints of math.<br>Help them improve their skills by playing Digits Planet.<br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
@@ -759,7 +759,7 @@
             }
           },
           "title3": "Fish Farmer",
-          "subtitle3": "Developed a Linebot by using Python",
+          "subtitle3": "<span style=\"font-style: normal;\">Developed a Linebot by using Python</span>",
           "caption3": "Fish farmer can manage the fish farms through Linebot,<br>It'll provide real time data and emergency calls when the water quality or&nbsp;<br>weather &nbsp;are unsuitable for fish to live",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
