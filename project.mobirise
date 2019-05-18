@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ballm06m06",
-    "currentPage": "myBlog.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -30,7 +30,7 @@
     "noImageResize": ""
   },
   "pages": {
-    "myBlog.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "myBlog",
