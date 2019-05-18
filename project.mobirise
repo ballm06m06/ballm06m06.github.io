@@ -716,10 +716,14 @@
           },
           "media1": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
+              "src": "@PROJECT_PATH@/assets/images/19221503-1565281550151378-5672219222388377935-o-600x399.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "https://github.com/ballm06m06/Digits-Planet",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
             }
           },
           "title1": "Digits Planet",
@@ -728,7 +732,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "qrc:/web/app/builder/../../../web/app/themes/mobirise3/components/_images/gallery/desktop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x453.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -748,10 +752,10 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "https://github.com/ballm06m06/cht666",
               "alt": "",
               "title": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": true
             }
           },
           "title3": "Fish Farmer",
