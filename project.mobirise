@@ -716,7 +716,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/19221503-1565281550151378-5672219222388377935-o-600x399.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x348.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
