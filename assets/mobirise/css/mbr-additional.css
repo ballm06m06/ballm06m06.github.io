@@ -528,3 +528,119 @@ h6,
 #social-buttons3-j .btn-social {
   color: #fff;
 }
+
+
+
+
+
+#ext_menu-v .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-v .navbar-caption {
+  color: #ffffff;
+  font-size: 20px;
+}
+#ext_menu-v .navbar-toggler {
+  color: #ffffff;
+}
+#ext_menu-v .close-icon::before,
+#ext_menu-v .close-icon::after {
+  background-color: #ffffff;
+}
+#ext_menu-v .link,
+#ext_menu-v .dropdown-item {
+  color: #ffffff;
+}
+#ext_menu-v .link {
+  font-size: 1rem;
+}
+#ext_menu-v .dropdown-item,
+#ext_menu-v .nav-dropdown-sm .link {
+  font-size: 1.083rem;
+}
+#ext_menu-v .link:hover,
+#ext_menu-v .dropdown-item:hover,
+#ext_menu-v .link:focus,
+#ext_menu-v .dropdown-item:focus {
+  color: #c0a375;
+}
+#ext_menu-v .link[aria-expanded="true"],
+#ext_menu-v .dropdown-menu {
+  background: #202125;
+}
+#ext_menu-v .nav-dropdown-sm .link:focus,
+#ext_menu-v .nav-dropdown-sm .link:hover,
+#ext_menu-v .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-v .nav-dropdown-sm .dropdown-item:hover {
+  background: #303339!important;
+}
+#ext_menu-v .navbar,
+#ext_menu-v .nav-dropdown-sm,
+#ext_menu-v .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-v .nav-dropdown-sm .dropdown-menu {
+  background: #373a41;
+}
+#ext_menu-v .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#ext_menu-v .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-v .bg-color.transparent.opened .link:hover,
+#ext_menu-v .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#ext_menu-v .link[aria-expanded="true"],
+#ext_menu-v .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#header1-w .mbr-section-title {
+  text-align: center;
+}
+#header1-w .mbr-section-lead {
+  font-family: 'Lora', serif;
+}
+#header3-x .mbr-section-title,
+#header3-x .mbr-section-subtitle {
+  text-align: center;
+}
+#features3-y H4 {
+  font-size: 23px;
+}
+#features3-y H5 {
+  font-family: 'Open Sans', sans-serif;
+  color: #000000;
+}
+#header3-z .mbr-section-title,
+#header3-z .mbr-section-subtitle {
+  text-align: center;
+}
+#features4-10 .card-subtitle {
+  color: #bcbcbc;
+}
+#features4-10 .iconbox {
+  background-color: #ffffff;
+  border-color: #ffffff;
+}
+#features4-10 .card-subtitle P {
+  color: #000000;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+}
+#features4-10 H4 {
+  font-size: 25px;
+}
+#features4-10 .card-subtitle B {
+  color: #000000;
+  font-family: 'Open Sans', sans-serif;
+}
+#features4-10 P {
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+}
+#social-buttons3-11 .mbr-section-title,
+#social-buttons3-11 .btn-social {
+  color: #fff;
+}
