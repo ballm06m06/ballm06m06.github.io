@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ballm06m06",
-    "currentPage": "index.html",
+    "currentPage": "myBlog.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -591,10 +591,10 @@
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": true
           },
@@ -656,8 +656,8 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "Chi &nbsp;Yuan Wu",
-          "text": "Proactive, analytical, team-oriented, detailed programming background and excellent communication acumen. Have developed several projects based on Java &amp; C# and perseverance on trial and error. Also love to exercise<br>",
+          "title": "&nbsp; &nbsp;Wu ChiYuan&nbsp;",
+          "text": "ChiYuan currently working at CY Chen’s lab. He is an active person who always like to take the initiative. In his free time, he likes to take photograph and programing. He is an energetic person with a nimble mind. Having developed several outstanding projects for his clients based on Java &amp; C#.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
