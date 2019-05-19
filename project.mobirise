@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ballm06m06",
-    "currentPage": "myBlog.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -102,10 +102,10 @@
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": true
           },
@@ -130,7 +130,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ballm06m06's Blog</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">IMAGINE YOUR WORLD</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-4\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-7\">Portfolio</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-b\">Work Experience</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons3-j\">Follow me</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
@@ -167,8 +167,8 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "Chi &nbsp;Yuan Wu",
-          "text": "Proactive, analytical, team-oriented, detailed programming background and excellent communication acumen. Have developed several projects based on Java &amp; C# and perseverance on trial and error. Also love to exercise<br>",
+          "title": "&nbsp; &nbsp;Wu ChiYuan&nbsp;",
+          "text": "ChiYuan currently working at CY Chen’s lab. He is an active person who always like to take the initiative. In his free time, he likes to take photograph and programing. He is an energetic person with a nimble mind. Having developed several outstanding projects for his clients based on Java &amp; C#.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
@@ -231,10 +231,14 @@
           },
           "media1": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x348.png",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "https://github.com/ballm06m06/Digits-Planet",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
             }
           },
           "title1": "Digits Planet",
@@ -243,7 +247,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "qrc:/web/app/builder/../../../web/app/themes/mobirise3/components/_images/gallery/desktop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x453.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -615,7 +619,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ballm06m06's Blog</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">IMAGINE YOUR WORLD</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-4\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-7\">Portfolio</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-b\">Work Experience</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons3-j\">Follow me</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
