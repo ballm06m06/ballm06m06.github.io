@@ -515,6 +515,7 @@ h6,
 }
 #features4-b H4 {
   font-size: 25px;
+  text-align: center;
 }
 #features4-b .card-subtitle B {
   color: #000000;
@@ -523,6 +524,9 @@ h6,
 #features4-b P {
   text-align: center;
   font-family: 'Open Sans', sans-serif;
+}
+#features4-b .card-subtitle SPAN {
+  text-align: left;
 }
 #social-buttons3-j .mbr-section-title,
 #social-buttons3-j .btn-social {

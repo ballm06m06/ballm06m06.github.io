@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ballm06m06",
-    "currentPage": "myBlog.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -168,7 +168,7 @@
             "showButtons": false
           },
           "title": "&nbsp; &nbsp;Wu ChiYuan&nbsp;",
-          "text": "ChiYuan currently working at CY Chen’s lab. He is an active person who always like to take the initiative. In his free time, he likes to take photograph and programing. He is an energetic person with a nimble mind. Having developed several outstanding projects for his clients based on Java &amp; C#.<br>",
+          "text": "ChiYuan currently looking for a job as a software engineer. He is an active person who always like to take the initiative. In his free time, he likes to take photograph and programing. He is an energetic person with a nimble mind. Having developed several outstanding projects for his clients based on Java &amp; C#.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
@@ -351,7 +351,8 @@
               "font-size": "14px"
             },
             "H4": {
-              "font-size": "25px"
+              "font-size": "25px",
+              "text-align": "center"
             },
             ".card-subtitle B": {
               "color": "#000000",
@@ -362,6 +363,9 @@
               "text-align": "center",
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".card-subtitle SPAN": {
+              "text-align": "left"
             }
           },
           "_tags": [
@@ -406,8 +410,8 @@
             }
           },
           "title1": "Java Teaching Assistant",
-          "subtitle1": "<p><b>03/2019 - current</b><span style=\"font-style: normal;\"><b></b></span></p>",
-          "caption1": "◆ Solved students’ questions about Java and designed extracurricular assignments <br>◆ Provided after school individual guidance&nbsp;",
+          "subtitle1": "<p><b>03/2019 - 6/2019</b></p>",
+          "caption1": "◆ Taught students the concepts of object-oriented programming,  and solved students’ questions about Java in class<br>◆ Provided after school individual guidance, and&nbsp;designed extracurricular assignments",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -422,9 +426,9 @@
               "newWindow": false
             }
           },
-          "title2": "User Experience Intern",
+          "title2": "Internship of UX &amp; SEO",
           "subtitle2": "<font color=\"#000000\" face=\"Open Sans, sans-serif\"><span style=\"font-style: normal;\"><b>07/2018 - 08/2018</b></span></font>",
-          "caption2": "◆ Researched the topics of UX &amp; SEO,presented the idea about how to improve the websites with real data <br>◆ Proposed a website redesign to care4cook&nbsp;<br>",
+          "caption2": "◆ Researched the topics of UX &amp; SEO, used digital monitoring tools to analyze websites, and presented the idea about how to improve the websites with real data <br>◆ Proposed a website redesign to care4cook&nbsp;<br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
